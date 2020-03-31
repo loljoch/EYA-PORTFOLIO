@@ -1,6 +1,6 @@
 # EYA/Portfolio - Ruben Hooijer | 3029382
 
-Bevat:
- SMART leerdoelen
- Functieposter
- Voorbeelden van werk
+Bevat:<br>
+ SMART leerdoelen<br>
+ Functieposter<br>
+ Voorbeelden van werk<br>
